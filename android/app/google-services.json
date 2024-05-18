@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735435684725",
+    "project_id": "farmpicks-8e040",
+    "storage_bucket": "farmpicks-8e040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735435684725:android:ca60914832149f6b0e313c",
+        "android_client_info": {
+          "package_name": "com.example.farmpicks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97oUdLZnwLdnSdZawX27EAKQls5jItM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
