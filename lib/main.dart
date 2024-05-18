@@ -17,7 +17,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
- await Firebase.initializeApp(options: FirebaseOptions(apiKey: "AIzaSyD97oUdLZnwLdnSdZawX27EAKQls5jItM8", appId: "1:735435684725:android:ca60914832149f6b0e313c", messagingSenderId: "735435684725", projectId: "farmpicks-8e040",storageBucket: "gs://farmpicks-8e040.appspot.com"));
+
  // await Firebase.initializeApp();
  // FirebaseAppCheck firebaseAppCheck = FirebaseAppCheck.getInstance();
   //firebaseAppCheck.installAppCheckProviderFactory( SafetyNetAppCheckProviderFactory.getInstance());
